@@ -1,4 +1,4 @@
-const esPar = require('./esPar');
+const esPar = require('../Math');
 
 test('2 es par', () => {
   expect(esPar(2)).toBe(true);
