@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/curso-github-cefire/sesion5-test-actions.git"
+        "url": "git+https://github.com/criruhe/sesion5-test-actions.git"
     },
-    "author": "Pedro Prieto",
+    "author": "CriRuHe",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/curso-github-cefire/sesion5-test-actions/issues"
+        "url": "https://github.com/criruhe/sesion5-test-actions/issues"
     },
-    "homepage": "https://github.com/curso-github-cefire/sesion5-test-actions#readme",
+    "homepage": "https://github.com/criruhe/sesion5-test-actions#readme",
     "devDependencies": {
         "chai": "^4.3.7",
         "mocha": "^10.2.0"
