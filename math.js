@@ -1,12 +1,8 @@
-function sumar(a,b) {
-    return a+b;
+function esPar(numero) {
+  return numero % 2 === 0;
 }
 
-function restar(a,b) {
-    return a-b;
-}
 
 module.exports = {
-    sumar,
-    restar
+    esPar
 }
